@@ -21,3 +21,31 @@ Se quiser me descrever o que está na foto (se é uma paisagem, um retrato, um c
 
 
 
+Como você está usando o Ghost Spectre Superlite, é bem possível que o autor da ISO tenha removido ou desativado componentes do Snipping Tool/Captura de Tela. Esse tipo de modificação costuma remover recursos do Windows para ficar mais leve.
+
+Tente estes testes:
+
+Pressione apenas PrtScn.
+Abra o Paint.
+Pressione Ctrl + V.
+Se a imagem aparecer, o print foi copiado para a área de transferência.
+Pressione Win + PrtScn.
+Verifique a pasta:
+C:\Users\SEU_USUARIO\Pictures\Screenshots
+Em alguns sistemas isso salva automaticamente.
+Abra o menu Iniciar e procure por Ferramenta de Captura ou Snipping Tool.
+Se não existir, provavelmente foi removida da instalação.
+
+Pressione Win + R, digite:
+
+snippingtool
+
+e veja se abre.
+
+Me diga:
+
+Quando você aperta PrtScn, acontece alguma coisa?
+Seu teclado tem uma tecla PrtScn dedicada?
+Você instalou o Ghost Spectre há pouco tempo ou já usa há bastante tempo?
+
+Com isso consigo indicar o próximo passo.
